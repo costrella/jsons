@@ -1,0 +1,65 @@
+[
+{
+"id": 6032,
+"name": "ul. Warszawska",
+"description": "ul. Warszawska",
+"adress": "ul. Warszawska\r\nKraków",
+"allSpacesNumber": 43
+},
+{
+"id": 6034,
+"name": "Plac Matejki",
+"description": "Plac Matejki",
+"adress": "Plac Matejki\r\nKraków",
+"allSpacesNumber": 19
+},
+{
+"id": 6028,
+"name": "ul. Szlak 47-73",
+"description": "ul. Szlak 47-73",
+"adress": "ul. Szlak, miejsca: 47-73\r\nKraków",
+"allSpacesNumber": 74
+},
+{
+"id": 6342,
+"name": "ul. Szlak 27-45",
+"description": "ul. Szlak 27-45",
+"adress": "ul. Szlak, miejsca: 27-45\r\nKraków",
+"allSpacesNumber": 26
+},
+{
+"id": 6350,
+"name": "Naziemny parking \"Stare Podgórze\"",
+"description": "Naziemny parking \"Stare Podgórze\"",
+"adress": "ul. Jana Zamoyskiego 17, 30-519 Kraków",
+"allSpacesNumber": 0
+},
+{
+"id": 6368,
+"name": "Podziemny parking \"Przy Muzeum\"",
+"description": "Podziemny parking \"Przy Muzeum\"",
+"adress": "al. Adama Mickiewicza 18, 33-332 Kraków",
+"allSpacesNumber": 0
+},
+{
+"id": 6036,
+"name": "ul. Ogrodowa",
+"description": "ul. Ogrodowa",
+"adress": "ul. Ogrodowa\r\nKraków",
+"allSpacesNumber": 10
+},
+{
+"id": 6325,
+"name": "Parking P+R Czerwone Maki",
+"description": "Parking P+R Czerwone Maki",
+"adress": "przy Dworcu Tramwajowo-Autobusowym \"Czerwone Maki\" - dojazd od ulicy Bunscha ulic¹ Czerwone Maki",
+"allSpacesNumber": 0
+},
+{
+"id": 6326,
+"name": "Parking P+R Gie³da Balicka",
+"description": "Parking P+R Gie³da Balicka",
+"adress": "przy ul. Balickiej 56 na terenie Centrum Gie³dowo-Handlowego Balicka",
+"allSpacesNumber": 0
+}
+]
