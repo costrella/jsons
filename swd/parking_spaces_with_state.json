@@ -1,0 +1,21 @@
+[
+{
+"idParkingSpace": 6180,
+"idCarPark": 6028,
+"spaceName": "143",
+"lon": "19.940884351",
+"lat": "50.0710915678999",
+"state": "OCCUPIED",
+"disabled": null,
+"parkingSpaceType": "PUBLIC"
+},
+{
+"idParkingSpace": 6181,
+"idCarPark": 6028,
+"spaceName": "144",
+"lon": "19.9409181886",
+"lat": "50.0710841296999",
+"state": "OCCUPIED",
+"disabled": null,
+"parkingSpaceType": "PUBLIC"
+}]
